@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\controllers\\audios",
+    "\\src\\controllers\\ayats",
+    "\\src\\entities"
+  ],
+  "SelectedNode": "\\src\\entities\\Word.entity.ts",
+  "PreviewInSolutionExplorer": false
+}
